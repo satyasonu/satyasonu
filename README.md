@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satyasonu
-- 👀 I’m interested in React JS currently(2022).
+- 👀 I’m interested in React JS currently(2024).
 - 🌱 I’m currently learning React JS for web development.
 - 💞️ I'm currently not colaborating with anyone.
 - 📫 reach me on 
